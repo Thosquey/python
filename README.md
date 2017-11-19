@@ -1,3 +1,3 @@
-# Games Branch
+# Random Programs Branch
 
-Branch for Python games.
+Branch for Random Programs in Python, every shits here
