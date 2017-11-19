@@ -11,7 +11,7 @@ class App:
     def __init__(self,master):
         frame = Frame(master)
         master.geometry("160x160")
-        master.title("My first program!")
+        master.title("Can't Quit This !")
         master.bind("<Button-1>",do_event)
         master.bind("<Button-1>",do_event)
         frame.pack()
